@@ -40,12 +40,7 @@ class Profile extends React.Component {
             {/* Circles background */}
             <div className="shape shape-style-1 shape-default alpha-4">
               <span />
-              <span />
-              <span />
-              <span />
-              <span />
-              <span />
-              <span />
+              
             </div>
             {/* SVG separator */}
             <div className="separator separator-bottom separator-skew">
@@ -151,9 +146,9 @@ class Profile extends React.Component {
 
                           Currently I'm enhancing my developer skills in HTML| CSS|Javascript| Python Full Stack Development. I am a dedicated and results-driven professional hoping to inspire others through Coding and Technology.
                         </p>
-                        {/* <a href="#pablo" onClick={e => e.preventDefault()}>
+                        <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
-                        </a> */}
+                        </a>
                       </Col>
                     </Row>
                   </div>
