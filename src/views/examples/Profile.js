@@ -86,7 +86,7 @@ class Profile extends React.Component {
                     >
                       <div className="card-profile-actions py-4 mt-lg-0">
                         <Button
-                          className="mr-4"
+                          className="float-right"
                           color="info"
                           href="#pablo"
                           onClick={e => e.preventDefault()}
@@ -106,18 +106,18 @@ class Profile extends React.Component {
                       </div>
                     </Col>
                     <Col className="order-lg-1" lg="4">
-                      <div className="card-profile-stats d-flex justify-content-center">
+                      <div className="card-profile-stats d-flex float-left">
                         <div>
-                          <span className="heading">22</span>
-                          <span className="description">Friends</span>
+                          <span className="heading">18</span>
+                          <span className="description">Github Repositories</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">15</span>
+                          <span className="description">GitHub Followers</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading">325</span>
+                          <span className="description">GitHub Contributions</span>
                         </div>
                       </div>
                     </Col>
@@ -138,22 +138,22 @@ class Profile extends React.Component {
                     <div>
                       <i className="ni education_hat mr-2" />
                       University of Maryland University College ||
-                      Code Fellows 
+                      Code Fellows
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          IT professional with very precise inductive and deductive reasoning skills and a positive work ethic. Excellent team player and quick learner currently with experience in:
-
+                          I am currently filling the role of a Junior Dell Boomi Integration and Development Engineer. My knowledge and skillset includes;
                           Dell Boomi Integrations| Dell Boomi EDI Integrations| Kronos Workforce Dimensions| Kronos Workforce Central | Kronos Workforce Integration Manager| MS SQL| Oracle SQL| XML| JSON.
+                          <br />
 
-                          Currently enhancing my developer skills in HTML| CSS|Javascript| Python Full Stack Development. I am a dedicated and results-driven professional who aids in the inspiration and creativity of effective solutions when approaching objectives.
+                          Currently I'm enhancing my developer skills in HTML| CSS|Javascript| Python Full Stack Development. I am a dedicated and results-driven professional hoping to inspire others through Coding and Technology.
                         </p>
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
-                          {/* Show more */}
-                        </a>
+                        {/* <a href="#pablo" onClick={e => e.preventDefault()}>
+                          Show more
+                        </a> */}
                       </Col>
                     </Row>
                   </div>
