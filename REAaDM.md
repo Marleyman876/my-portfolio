@@ -14,8 +14,8 @@
 
 ## Redo the “Landing” page as your new Portfolio page:
 
-Change the text in the top section to state what you are excited about in tech.
-Use the Cards to BRIEFLY descbribe your previous projects, and include placeholders for future 301 and 401 projects.
-Include more detail below on projects you’d like to showcase.
-Make an All About Me section, add your personal pitch.
-Delete sections you aren’t utilizing.
+[x]Change the text in the top section to state what you are excited about in tech.
+[x]Use the Cards to BRIEFLY descbribe your previous projects, and include placeholders for future 301 and 401 projects.
+[x]Include more detail below on projects you’d like to showcase.
+[x]Make an All About Me section, add your personal pitch.
+[x]Delete sections you aren’t utilizing.
