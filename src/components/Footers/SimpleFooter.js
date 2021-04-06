@@ -62,7 +62,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/Marleyman876"
                   id="tooltip495507257"
                   target="_blank"
                 >
